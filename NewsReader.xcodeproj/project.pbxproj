@@ -69,7 +69,6 @@
 				19B3350C27035CC100315358 /* NetworkManager */,
 				19B3350B27035CAF00315358 /* Accesses */,
 				19B334F32703584200315358 /* AppDelegate.swift */,
-				19B33511270369BE00315358 /* NewsTableViewCell.swift */,
 				19B334F52703584200315358 /* SceneDelegate.swift */,
 				19B334F92703584200315358 /* Main.storyboard */,
 				19B334FC2703584300315358 /* Assets.xcassets */,
@@ -99,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				19B3350E2703602200315358 /* NewsModel.swift */,
+				19B33511270369BE00315358 /* NewsTableViewCell.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
